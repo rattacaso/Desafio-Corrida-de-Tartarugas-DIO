@@ -1,0 +1,13 @@
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/bin/Debug/netcoreapp3.1/CorridaTartarugas
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/bin/Debug/netcoreapp3.1/CorridaTartarugas.deps.json
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/bin/Debug/netcoreapp3.1/CorridaTartarugas.runtimeconfig.json
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/bin/Debug/netcoreapp3.1/CorridaTartarugas.runtimeconfig.dev.json
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/bin/Debug/netcoreapp3.1/CorridaTartarugas.dll
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/bin/Debug/netcoreapp3.1/CorridaTartarugas.pdb
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/obj/Debug/netcoreapp3.1/CorridaTartarugas.csprojAssemblyReference.cache
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/obj/Debug/netcoreapp3.1/CorridaTartarugas.AssemblyInfoInputs.cache
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/obj/Debug/netcoreapp3.1/CorridaTartarugas.AssemblyInfo.cs
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/obj/Debug/netcoreapp3.1/CorridaTartarugas.csproj.CoreCompileInputs.cache
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/obj/Debug/netcoreapp3.1/CorridaTartarugas.dll
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/obj/Debug/netcoreapp3.1/CorridaTartarugas.pdb
+/home/r4774c450/Documents/Bootcamp AVANADE/desafio02/Tartarugas/CorridaTartarugas/obj/Debug/netcoreapp3.1/CorridaTartarugas.genruntimeconfig.cache
